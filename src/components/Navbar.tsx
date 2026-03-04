@@ -8,7 +8,7 @@ import { createPortal } from "react-dom";
 const navItems = [
   { label: "About us", href: "/about" },
   { label: "Product", href: "/product" },
-  { label: "Reviews", href: "/reviews" },
+  // { label: "Reviews", href: "/reviews" },
   { label: "Feeds", href: "/feeds" },
   { label: "Blogs", href: "/blogs" },
   { label: "Contact us", href: "/contact" },
