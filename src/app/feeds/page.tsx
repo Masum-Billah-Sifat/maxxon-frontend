@@ -18,11 +18,11 @@ type Post = {
 
 export default function FeedsPage() {
   const posts: Post[] = [
-    {
-      id: "1",
-      image: "/maxxon/feeds/01.png",
-      caption: "Why Maxxon is the best gift for your car?",
-    },
+    // {
+    //   id: "1",
+    //   image: "/maxxon/feeds/01.png",
+    //   caption: "Why Maxxon is the best gift for your car?",
+    // },
     {
       id: "2",
       image: "/maxxon/feeds/02.png",
